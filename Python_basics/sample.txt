@@ -1,8 +1,0 @@
-pineapple
-apple
-banana
-pear
-orange
-papaya
-grapes
-cherry
